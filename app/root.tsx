@@ -30,7 +30,7 @@ export default function App() {
         <Meta />
         <Links />
       </head>
-      <body className="bg-gradient-to-b from-purple-800 via-violet-900 to-purple-800 h-screen">
+      <body className="bg-gradient-to-b from-rose-800 via-rose-900 to-rose-800 h-screen">
         <Outlet />
         <ScrollRestoration />
         <Scripts />
