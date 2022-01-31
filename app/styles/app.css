@@ -1,0 +1,4 @@
+body,
+html {
+  @apply bg-gradient-to-b from-purple-800 via-violet-900 to-purple-800;
+}
